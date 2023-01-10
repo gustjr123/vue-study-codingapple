@@ -1,24 +1,8 @@
 # vue-study-codingapple
 
-## Project setup
-```
-npm install
-```
+본 프로젝트는 Vue의 학습을 위해서 진행하는 프로젝트
+Youtube CodingApple의 강의를 들으면서 학습을 위한 것.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Youtube 주소
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://www.youtube.com/watch?v=-tVaahsXpwk&list=PLfLgtT94nNq3Br68sEe26jkOqCPK_8UQ-
